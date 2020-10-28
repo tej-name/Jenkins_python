@@ -1,2 +1,2 @@
-echo "python file2"
+print("im tejaswini name")
 
