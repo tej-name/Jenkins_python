@@ -1,1 +1,1 @@
-echo "python file 3"
+print("hiii")
